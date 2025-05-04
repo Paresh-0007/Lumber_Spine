@@ -14,5 +14,9 @@ cd spine/Scripts && activate && cd ../..
 ```
 
 ```
+pip install -r requirements.txt
+```
+
+```
 streamlit run app.py
 ```
